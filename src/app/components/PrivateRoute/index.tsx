@@ -1,6 +1,6 @@
-import React from 'react';
-import { Route, Redirect } from 'react-router-dom';
-import { isAuthenticated } from '../../services/authenticationService';
+import React from 'react'
+import { Route, Redirect } from 'react-router-dom'
+import { isAuthenticated } from '../../services/authenticationService'
 
 export const PrivateRoute = ({ component, ...rest }: any) => {
   const routeComponent = (props: any) =>
@@ -8,6 +8,6 @@ export const PrivateRoute = ({ component, ...rest }: any) => {
       React.createElement(component, props)
     ) : (
       <Redirect to={{ pathname: '/login' }} />
-    );
-  return <Route {...rest} render={routeComponent} />;
-};
+    )
+  return <Route {...rest} render={routeComponent} />
+}

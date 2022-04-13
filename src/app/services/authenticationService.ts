@@ -1,19 +1,20 @@
-import { getAccessToken } from './localStorage';
-import { env_var } from '../../config/env';
+import { getAccessToken } from './localStorage'
+import { env_var } from '../../config/env'
+import axios from 'axios'
+import { post } from './apiService'
 
 export interface AuthPayload {
-  username: string;
-  password: string;
+  username: string
+  password: string
 }
 
 export const authenticate = async (data: AuthPayload) => {
-  if (data.username === env_var.USER_NAME && data.password === env_var.PASSWORD) {
-    return { status: true , data: {user: env_var.USER_NAME , token: env_var.USER_NAME , refreshToken: env_var.USER_NAME}};
-  } else {
-    return { status: false , data: "Something went wrong"};
-  }
-};
+  const response = await post(`signin`, data)
+  console.log('response', response)
+  return response
+}
 
 export const isAuthenticated = (): boolean => {
-  return getAccessToken() ? true : false;
-};
+  console.log('hereeee are we authorized', getAccessToken() ? true : false)
+  return getAccessToken() ? true : false
+}

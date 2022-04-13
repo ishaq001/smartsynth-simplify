@@ -1,0 +1,124 @@
+/*-_-_Login_CSS_Start_-_-*/
+.loginWrap {
+  padding: 2.5rem 2.5rem 5rem;
+  background-image: url('../../../images/pages-bg.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-y: bottom;
+  background-attachment: fixed;
+}
+.loginWrap .loginContent {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+.loginWrap .loginContent .signInLogo {
+  margin: 0 auto 3rem;
+  display: block;
+  max-width: 192px;
+}
+.loginWrap .loginContent .signInLogo img {
+  max-width: 100%;
+}
+.loginWrap .mainForm {
+  padding: 3.75rem;
+  box-shadow: 0 0.1rem 1rem 0.25rem rgba(0, 0, 0, 0.05);
+  background-color: white;
+}
+.loginWrap .mainForm form .heading {
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+.loginWrap .mainForm form .heading h1 {
+  margin-bottom: 0.75rem;
+  font-size: 22.75px;
+  line-height: 27.2969px;
+  font-weight: 600;
+  color: #181c32;
+}
+.loginWrap .mainForm form .heading span {
+  color: #b5b5c3;
+  font-weight: 500;
+  font-size: 16.25px;
+  line-height: 24.375px;
+}
+.loginWrap .mainForm form .heading span a {
+  font-weight: 600;
+  color: #009ef7;
+}
+.loginWrap .mainForm form .form-group {
+  margin-bottom: 2.5rem;
+}
+.loginWrap .mainForm form .form-group label {
+  color: #181c32;
+  font-weight: 600;
+  font-size: 13.975px;
+  line-height: 20.9625px;
+  margin-bottom: 6.5px;
+}
+.loginWrap .mainForm form .form-group input {
+  background-color: #f5f8fa;
+  border-color: #f5f8fa;
+  color: #5e6278;
+  transition: color 0.2s ease, background-color 0.2s ease;
+  box-shadow: none;
+  padding: 1.35rem 1.5rem;
+  font-size: 14.95px;
+  line-height: 22.425px;
+  border-radius: 0.475rem;
+  font-weight: 500;
+}
+.loginWrap .mainForm form .form-group:nth-child(3) label {
+  display: flex;
+  justify-content: space-between;
+}
+.loginWrap .mainForm form .form-check button {
+  padding: calc(0.65rem + 1px) calc(1.75rem + 1px);
+  color: #fff;
+  border-color: #009ef7;
+  background-color: #009ef7;
+  margin-bottom: 1.25rem;
+  font-size: 14.95px;
+  font-weight: 500;
+  line-height: 22.425px;
+}
+.loginWrap .mainForm form .form-check .text-center {
+  color: #a1a5b7;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 13px;
+  line-height: 19.5px;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+}
+.loginWrap .mainForm form .form-check .social-media {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.loginWrap .mainForm form .form-check .social-media .social-items {
+  display: flex;
+  align-items: center;
+  padding: calc(0.65rem + 1px) calc(1.75rem + 1px);
+  color: #7e8299;
+  border-color: #f5f8fa;
+  background-color: #f5f8fa;
+  margin-bottom: 1.25rem;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+.loginWrap .mainForm form .form-check .social-media a {
+  font-size: 14.95px;
+  line-height: 22.425px;
+  font-weight: 500;
+  color: rgb(126, 130, 153);
+  border-radius: 0.475rem;
+}
+.loginWrap .mainForm form .form-check .social-media img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  margin-right: 0.75rem;
+}
+/*-_-_login-page_CSS_End_-_-*/
