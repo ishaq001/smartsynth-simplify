@@ -1,6 +1,6 @@
-import { getAccessToken } from '../app/services/localStorage';
+import { getToken } from '../app/services/localStorage';
 export const getHeaderInfo = async function () {
-  let token = await getAccessToken();
+  let token = await getToken();
   return {
     headers: {
       'Content-Type': 'application/json',
@@ -11,7 +11,7 @@ export const getHeaderInfo = async function () {
 };
 
 export const getFormDataHeader = async function () {
-  let token = await getAccessToken();
+  let token = await getToken();
   return {
     headers: {
       'Content-Type': 'multipart/form-data',

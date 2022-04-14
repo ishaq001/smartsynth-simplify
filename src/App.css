@@ -1,197 +1,161 @@
 /*-_-_Fonts_CSS_Start_-_-*/
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Bold.woff2') format('woff2'),
-    url('./fonts/Poppins-Bold.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-Bold.woff2") format("woff2"),
+    url("./fonts/Poppins-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-BlackItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-BlackItalic.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-BlackItalic.woff2") format("woff2"),
+    url("./fonts/Poppins-BlackItalic.woff") format("woff");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Black.woff2') format('woff2'),
-    url('./fonts/Poppins-Black.woff') format('woff');
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-BoldItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-BoldItalic.woff') format('woff');
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-/*-_-_Fonts_CSS_Start_-_-*/
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Bold.woff2') format('woff2'),
-    url('./fonts/Poppins-Bold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-BlackItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-BlackItalic.woff') format('woff');
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Black.woff2') format('woff2'),
-    url('./fonts/Poppins-Black.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-Black.woff2") format("woff2"),
+    url("./fonts/Poppins-Black.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-BoldItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-BoldItalic.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-BoldItalic.woff2") format("woff2"),
+    url("./fonts/Poppins-BoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ExtraLightItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-ExtraLightItalic.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-ExtraLightItalic.woff2") format("woff2"),
+    url("./fonts/Poppins-ExtraLightItalic.woff") format("woff");
   font-weight: 200;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Light.woff2') format('woff2'),
-    url('./fonts/Poppins-Light.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-Light.woff2") format("woff2"),
+    url("./fonts/Poppins-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Italic.woff2') format('woff2'),
-    url('./fonts/Poppins-Italic.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-Italic.woff2") format("woff2"),
+    url("./fonts/Poppins-Italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ExtraBoldItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-ExtraBoldItalic.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-ExtraBoldItalic.woff2") format("woff2"),
+    url("./fonts/Poppins-ExtraBoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ExtraLight.woff2') format('woff2'),
-    url('./fonts/Poppins-ExtraLight.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-ExtraLight.woff2") format("woff2"),
+    url("./fonts/Poppins-ExtraLight.woff") format("woff");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ExtraBold.woff2') format('woff2'),
-    url('./fonts/Poppins-ExtraBold.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-ExtraBold.woff2") format("woff2"),
+    url("./fonts/Poppins-ExtraBold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-SemiBold.woff2') format('woff2'),
-    url('./fonts/Poppins-SemiBold.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-SemiBold.woff2") format("woff2"),
+    url("./fonts/Poppins-SemiBold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-LightItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-LightItalic.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-LightItalic.woff2") format("woff2"),
+    url("./fonts/Poppins-LightItalic.woff") format("woff");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Regular.woff2') format('woff2'),
-    url('./fonts/Poppins-Regular.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-Regular.woff2") format("woff2"),
+    url("./fonts/Poppins-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ThinItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-ThinItalic.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-ThinItalic.woff2") format("woff2"),
+    url("./fonts/Poppins-ThinItalic.woff") format("woff");
   font-weight: 100;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Thin.woff2') format('woff2'),
-    url('./fonts/Poppins-Thin.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-Thin.woff2") format("woff2"),
+    url("./fonts/Poppins-Thin.woff") format("woff");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-SemiBoldItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-SemiBoldItalic.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-SemiBoldItalic.woff2") format("woff2"),
+    url("./fonts/Poppins-SemiBoldItalic.woff") format("woff");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-MediumItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-MediumItalic.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-MediumItalic.woff2") format("woff2"),
+    url("./fonts/Poppins-MediumItalic.woff") format("woff");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Medium.woff2') format('woff2'),
-    url('./fonts/Poppins-Medium.woff') format('woff');
+  font-family: "Poppins";
+  src: url("./fonts/Poppins-Medium.woff2") format("woff2"),
+    url("./fonts/Poppins-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -202,13 +166,13 @@
 * {
   padding: 0;
   margin: 0;
-  font-family: 'Poppins';
+  font-family: "Poppins";
 }
 html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: 'Poppins';
+  font-family: "Poppins";
 }
 body,
 textarea,
@@ -256,945 +220,8 @@ input::-webkit-inner-spin-button {
   margin: 0;
 }
 
-input[type='number'] {
+input[type="number"] {
   -moz-appearance: textfield;
 }
 
 /*-_-_Global_CSS_End_-_-*/
-
-/*-_-_login-page_CSS_Start_-_-*/
-
-/*-_-_Login_CSS_Start_-_-*/
-.loginWrap {
-  padding: 2.5rem 2.5rem 5rem;
-  background-image: url(./images/pages-bg.png);
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position-y: bottom;
-  background-attachment: fixed;
-}
-.loginWrap .loginContent {
-  max-width: 500px;
-  width: 100%;
-  margin: 0 auto;
-}
-.loginWrap .loginContent .signInLogo {
-  margin: 0 auto 3rem;
-  display: block;
-  max-width: 192px;
-}
-.loginWrap .loginContent .signInLogo img {
-  max-width: 100%;
-}
-.loginWrap .mainForm {
-  padding: 3.75rem;
-  box-shadow: 0 0.1rem 1rem 0.25rem rgba(0, 0, 0, 0.05);
-  background-color: white;
-}
-.loginWrap .mainForm form .heading {
-  margin-bottom: 2.5rem;
-  text-align: center;
-}
-.loginWrap .mainForm form .heading h1 {
-  margin-bottom: 0.75rem;
-  font-size: 22.75px;
-  line-height: 27.2969px;
-  font-weight: 600;
-  color: #181c32;
-}
-.loginWrap .mainForm form .heading span {
-  color: #b5b5c3;
-  font-weight: 500;
-  font-size: 16.25px;
-  line-height: 24.375px;
-}
-.loginWrap .mainForm form .heading span a {
-  font-weight: 600;
-  color: #009ef7;
-}
-.loginWrap .mainForm form .form-group {
-  margin-bottom: 2.5rem;
-}
-.loginWrap .mainForm form .form-group label {
-  color: #181c32;
-  font-weight: 600;
-  font-size: 13.975px;
-  line-height: 20.9625px;
-  margin-bottom: 6.5px;
-}
-.loginWrap .mainForm form .form-group input {
-  background-color: #f5f8fa;
-  border-color: #f5f8fa;
-  color: #5e6278;
-  transition: color 0.2s ease, background-color 0.2s ease;
-  box-shadow: none;
-  padding: 1.35rem 1.5rem;
-  font-size: 14.95px;
-  line-height: 22.425px;
-  border-radius: 0.475rem;
-  font-weight: 500;
-}
-.loginWrap .mainForm form .form-group:nth-child(3) label {
-  display: flex;
-  justify-content: space-between;
-}
-.loginWrap .mainForm form .form-check button {
-  padding: calc(0.65rem + 1px) calc(1.75rem + 1px);
-  color: #fff;
-  border-color: #009ef7;
-  background-color: #009ef7;
-  margin-bottom: 1.25rem;
-  font-size: 14.95px;
-  font-weight: 500;
-  line-height: 22.425px;
-}
-.loginWrap .mainForm form .form-check .text-center {
-  color: #a1a5b7;
-  text-transform: uppercase;
-  text-align: center;
-  font-size: 13px;
-  line-height: 19.5px;
-  font-weight: 600;
-  margin-bottom: 1.25rem;
-}
-.loginWrap .mainForm form .form-check .social-media {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.loginWrap .mainForm form .form-check .social-media .social-items {
-  display: flex;
-  align-items: center;
-  padding: calc(0.65rem + 1px) calc(1.75rem + 1px);
-  color: #7e8299;
-  border-color: #f5f8fa;
-  background-color: #f5f8fa;
-  margin-bottom: 1.25rem;
-  width: 100%;
-  justify-content: center;
-  text-align: center;
-}
-.loginWrap .mainForm form .form-check .social-media a {
-  font-size: 14.95px;
-  line-height: 22.425px;
-  font-weight: 500;
-  color: rgb(126, 130, 153);
-  border-radius: 0.475rem;
-}
-.loginWrap .mainForm form .form-check .social-media img {
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-  margin-right: 0.75rem;
-}
-/*-_-_login-page_CSS_End_-_-*/
-
-/*-_-_Signup-page_CSS_Start_-_-*/
-
-/*-_-_Login_CSS_Start_-_-*/
-.loginWrap .signin {
-  max-width: 600px;
-  width: 100%;
-  margin: 0 auto;
-}
-.loginWrap .mainForm form button {
-  width: 100%;
-  border: 0;
-  padding: calc(0.75rem + 1px) calc(1.5rem + 1px);
-  color: #009ef7;
-  border-color: #f1faff;
-  background-color: #f1faff;
-  font-weight: 600;
-  margin-bottom: 2.5rem;
-  font-size: 14.3px;
-  line-height: 21.45px;
-  border-radius: 0.475rem;
-  transition: 0.3s;
-}
-.loginWrap .mainForm form button:hover {
-  background-color: #009ef7;
-  color: white;
-}
-.loginWrap .mainForm form button img {
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-  margin-right: 0.75rem;
-}
-
-.loginWrap .mainForm form .textCenter {
-  margin-bottom: 2.5rem;
-  display: flex;
-  align-items: center;
-}
-.loginWrap .mainForm form .textCenter .border {
-  border-bottom: 1px solid #eff2f5;
-  border-color: #e4e6ef;
-  max-width: 50%;
-  width: 100%;
-}
-.loginWrap .mainForm form .textCenter .center {
-  color: #b5b5c3;
-  font-weight: 500;
-  font-size: 12.35px;
-  line-height: 18.525px;
-  margin: 0px 0.5rem;
-  text-transform: uppercase;
-}
-
-.loginWrap .mainForm form .form-group:nth-child(4) {
-  display: flex;
-  padding: 0px;
-}
-.form-group .group {
-  padding: 0 15px;
-  max-width: 50%;
-  width: 100%;
-}
-.form-group .group:first-child {
-  padding-left: 0px;
-}
-.form-group .group:last-child {
-  padding-right: 0px;
-}
-.loginWrap .mainForm form .form-group .slide {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-}
-.loginWrap .mainForm form .form-group .slide .slideItems {
-  margin: 10px 0px 12px 0px;
-  margin-right: 0.5rem;
-  background-color: rgb(228, 230, 239);
-  border-radius: 0.475rem;
-  width: 25%;
-  height: 5px;
-}
-.loginWrap .mainForm form .form-group .slide .slideItems:last-child {
-  margin-right: 0px;
-}
-.loginWrap .mainForm form .form-group:nth-child(6) {
-  margin-bottom: 2.5rem;
-  position: relative;
-}
-.loginWrap .mainForm form .form-group:nth-child(6) i {
-  position: absolute;
-  top: 42px;
-  right: 15px;
-}
-.loginWrap .mainForm form .form-group span {
-  color: #a1a5b7;
-  font-size: 13px;
-  line-height: 19.5px;
-  font-weight: 400;
-}
-.loginWrap .mainForm form .form-group:nth-child(7) {
-  margin-bottom: 1.25rem;
-}
-.loginWrap .mainForm form .form-check {
-  padding: 0;
-  margin-bottom: 2.5rem;
-}
-.loginWrap .mainForm form .form-check label {
-  font-size: 13.975px;
-  line-height: 20.9625px;
-  font-weight: 500;
-  color: rgb(94, 98, 120);
-  margin-left: 0.55rem;
-}
-.loginWrap .mainForm form .form-check input {
-  width: 22.75px;
-  height: 22.75px;
-  border: 0;
-  background-color: #eff2f5;
-  border-radius: 0.35em;
-  padding: 0px;
-}
-.loginWrap .mainForm form .form-button {
-  text-align: center;
-}
-.loginWrap .mainForm form .form-button button {
-  padding: calc(0.825rem + 1px) calc(1.75rem + 1px);
-  color: #fff;
-  border-color: #009ef7;
-  background-color: #009ef7;
-  font-size: 14.95px;
-  font-weight: 500;
-  margin: 0px;
-  width: unset;
-}
-/*-_-_Login_CSS_End_-_-*/
-
-/*-_-_Footer_CSS_Start_-_-*/
-footer {
-  padding: 2.5rem;
-  text-align: center;
-}
-footer .links a {
-  color: #a1a5b7;
-  padding-right: 0.5rem;
-  padding-left: 0.5rem;
-  font-weight: 500;
-  font-size: 13.975px;
-  line-height: 20.9625px;
-}
-/*-_-_Footer_CSS_End_-_-*/
-
-/*-_-_Signup-page_CSS_End_-_-*/
-
-/*-_-_Home-page_CSS_Start_-_-*/
-.main-dashboard .menu {
-  background-color: #1e1e2d;
-  width: 265px;
-}
-/*-_-_Home-page_CSS_End_-_-*/
-
-/*-_-_Responsiveness_-_-*/
-
-@media only screen and (max-width: 575px) {
-  .loginWrap .mainForm {
-    padding: 2.75rem 1.75rem;
-    box-shadow: 0 0.1rem 1rem 0.25rem rgb(0 0 0 / 5%);
-    background-color: white;
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  /*-_-_login-page_CSS_Start_-_-*/
-  .loginWrap {
-    padding: 2.5rem 15px 5rem;
-  }
-  .loginWrap .loginContent {
-    margin-bottom: 70px;
-  }
-  .loginWrap .mainForm {
-    padding: 1.75rem 1.5rem;
-  }
-  .loginWrap .mainForm form .heading h1 {
-    font-size: 18.75px;
-    line-height: 20px;
-  }
-  .loginWrap .mainForm form .heading span {
-    font-size: 14.25px;
-    line-height: 20.375px;
-  }
-  .loginWrap .mainForm form .form-group {
-    padding: 0px;
-  }
-  .loginWrap .mainForm form .form-group {
-    margin-bottom: 2rem;
-  }
-  .loginWrap .mainForm form .form-check {
-    margin-bottom: 2.5rem;
-    padding: 0px;
-  }
-  .loginWrap .mainForm form .form-group label {
-    font-size: 12px;
-  }
-  .loginWrap .mainForm form .form-check button {
-    font-size: 13px;
-  }
-  .loginWrap .mainForm form .form-check .social-media .social-items {
-    padding: 10px;
-  }
-  .loginWrap .mainForm form .form-check .social-media a {
-    font-size: 15px;
-    line-height: 22.425px;
-    font-weight: 500;
-    color: rgb(126, 130, 153);
-    border-radius: 0.475rem;
-  }
-  footer {
-    padding: 2.5rem 0.9rem;
-  }
-  footer .links a {
-    font-size: 12px;
-  }
-  /*-_-_login-page_CSS_End_-_-*/
-
-  /*-_-_Signup-page_CSS_Start_-_-*/
-  .loginWrap .mainForm form button {
-    padding: calc(0.75rem + 1px) calc(0.9rem + 1px);
-    font-size: 13px;
-  }
-  .loginWrap .mainForm form .form-group:nth-child(4) {
-    flex-direction: column;
-  }
-  .form-group .group {
-    padding: 0px;
-    max-width: 100%;
-  }
-  .loginWrap .mainForm form .form-check a {
-    display: inline;
-    font-size: 12px;
-  }
-  .loginWrap .mainForm form .form-check label {
-    font-size: 12px;
-  }
-
-  /*-_-_Signup-page_CSS_End_-_-*/
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ExtraLightItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-ExtraLightItalic.woff') format('woff');
-  font-weight: 200;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Light.woff2') format('woff2'),
-    url('./fonts/Poppins-Light.woff') format('woff');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Italic.woff2') format('woff2'),
-    url('./fonts/Poppins-Italic.woff') format('woff');
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ExtraBoldItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-ExtraBoldItalic.woff') format('woff');
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ExtraLight.woff2') format('woff2'),
-    url('./fonts/Poppins-ExtraLight.woff') format('woff');
-  font-weight: 200;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ExtraBold.woff2') format('woff2'),
-    url('./fonts/Poppins-ExtraBold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-SemiBold.woff2') format('woff2'),
-    url('./fonts/Poppins-SemiBold.woff') format('woff');
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-LightItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-LightItalic.woff') format('woff');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Regular.woff2') format('woff2'),
-    url('./fonts/Poppins-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-ThinItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-ThinItalic.woff') format('woff');
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Thin.woff2') format('woff2'),
-    url('./fonts/Poppins-Thin.woff') format('woff');
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-SemiBoldItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-SemiBoldItalic.woff') format('woff');
-  font-weight: 600;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-MediumItalic.woff2') format('woff2'),
-    url('./fonts/Poppins-MediumItalic.woff') format('woff');
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Medium.woff2') format('woff2'),
-    url('./fonts/Poppins-Medium.woff') format('woff');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-/*-_-_Fonts_CSS_End_-_-*/
-/*-_-_Global_CSS_Start_-_-*/
-* {
-  padding: 0;
-  margin: 0;
-  font-family: 'Poppins';
-}
-html {
-  scroll-behavior: smooth;
-}
-body {
-  font-family: 'Poppins';
-}
-body,
-textarea,
-input {
-  padding: 0;
-  margin: 0;
-  line-height: 1.3;
-  font-weight: 400;
-  color: #000000;
-}
-
-a:hover {
-  text-decoration: none;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  padding: 0;
-  margin: 0;
-  font-weight: 400;
-}
-p {
-  margin: 0;
-  padding: 0;
-}
-ul {
-  list-style: none;
-}
-ul,
-ol {
-  padding: 0;
-  margin: 0;
-}
-
-a {
-  display: inline-block;
-}
-
-input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
-
-input[type='number'] {
-  -moz-appearance: textfield;
-}
-
-/*-_-_Global_CSS_End_-_-*/
-
-/*-_-_login-page_CSS_Start_-_-*/
-
-/*-_-_Login_CSS_Start_-_-*/
-.loginWrap {
-  padding: 2.5rem 2.5rem 5rem;
-  background-image: url(./images/pages-bg.png);
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position-y: bottom;
-  background-attachment: fixed;
-}
-.loginWrap .loginContent {
-  max-width: 500px;
-  width: 100%;
-  margin: 0 auto;
-}
-.loginWrap .loginContent .signInLogo {
-  margin: 0 auto 3rem;
-  display: block;
-  max-width: 192px;
-}
-.loginWrap .loginContent .signInLogo img {
-  max-width: 100%;
-}
-.loginWrap .mainForm {
-  padding: 3.75rem;
-  box-shadow: 0 0.1rem 1rem 0.25rem rgba(0, 0, 0, 0.05);
-  background-color: white;
-}
-.loginWrap .mainForm form .heading {
-  margin-bottom: 2.5rem;
-  text-align: center;
-}
-.loginWrap .mainForm form .heading h1 {
-  margin-bottom: 0.75rem;
-  font-size: 22.75px;
-  line-height: 27.2969px;
-  font-weight: 600;
-  color: #181c32;
-}
-.loginWrap .mainForm form .heading span {
-  color: #b5b5c3;
-  font-weight: 500;
-  font-size: 16.25px;
-  line-height: 24.375px;
-}
-.loginWrap .mainForm form .heading span a {
-  font-weight: 600;
-  color: #009ef7;
-}
-.loginWrap .mainForm form .form-group {
-  margin-bottom: 2.5rem;
-}
-.loginWrap .mainForm form .form-group label {
-  color: #181c32;
-  font-weight: 600;
-  font-size: 13.975px;
-  line-height: 20.9625px;
-  margin-bottom: 6.5px;
-}
-.loginWrap .mainForm form .form-group input {
-  background-color: #f5f8fa;
-  border-color: #f5f8fa;
-  color: #5e6278;
-  transition: color 0.2s ease, background-color 0.2s ease;
-  box-shadow: none;
-  padding: 1.35rem 1.5rem;
-  font-size: 14.95px;
-  line-height: 22.425px;
-  border-radius: 0.475rem;
-  font-weight: 500;
-}
-.loginWrap .mainForm form .form-group:nth-child(3) label {
-  display: flex;
-  justify-content: space-between;
-}
-.loginWrap .mainForm form .form-check button {
-  padding: calc(0.65rem + 1px) calc(1.75rem + 1px);
-  color: #fff;
-  border-color: #009ef7;
-  background-color: #009ef7;
-  margin-bottom: 1.25rem;
-  font-size: 14.95px;
-  font-weight: 500;
-  line-height: 22.425px;
-}
-.loginWrap .mainForm form .form-check .text-center {
-  color: #a1a5b7;
-  text-transform: uppercase;
-  text-align: center;
-  font-size: 13px;
-  line-height: 19.5px;
-  font-weight: 600;
-  margin-bottom: 1.25rem;
-}
-.loginWrap .mainForm form .form-check .social-media {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.loginWrap .mainForm form .form-check .social-media .social-items {
-  display: flex;
-  align-items: center;
-  padding: calc(0.65rem + 1px) calc(1.75rem + 1px);
-  color: #7e8299;
-  border-color: #f5f8fa;
-  background-color: #f5f8fa;
-  margin-bottom: 1.25rem;
-  width: 100%;
-  justify-content: center;
-  text-align: center;
-}
-.loginWrap .mainForm form .form-check .social-media a {
-  font-size: 14.95px;
-  line-height: 22.425px;
-  font-weight: 500;
-  color: rgb(126, 130, 153);
-  border-radius: 0.475rem;
-}
-.loginWrap .mainForm form .form-check .social-media img {
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-  margin-right: 0.75rem;
-}
-/*-_-_login-page_CSS_End_-_-*/
-
-/*-_-_Signup-page_CSS_Start_-_-*/
-
-/*-_-_Login_CSS_Start_-_-*/
-.loginWrap .signin {
-  max-width: 600px;
-  width: 100%;
-  margin: 0 auto;
-}
-.loginWrap .mainForm form button {
-  width: 100%;
-  border: 0;
-  padding: calc(0.75rem + 1px) calc(1.5rem + 1px);
-  color: #009ef7;
-  border-color: #f1faff;
-  background-color: #f1faff;
-  font-weight: 600;
-  margin-bottom: 2.5rem;
-  font-size: 14.3px;
-  line-height: 21.45px;
-  border-radius: 0.475rem;
-  transition: 0.3s;
-}
-.loginWrap .mainForm form button:hover {
-  background-color: #009ef7;
-  color: white;
-}
-.loginWrap .mainForm form button img {
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-  margin-right: 0.75rem;
-}
-
-.loginWrap .mainForm form .textCenter {
-  margin-bottom: 2.5rem;
-  display: flex;
-  align-items: center;
-}
-.loginWrap .mainForm form .textCenter .border {
-  border-bottom: 1px solid #eff2f5;
-  border-color: #e4e6ef;
-  max-width: 50%;
-  width: 100%;
-}
-.loginWrap .mainForm form .textCenter .center {
-  color: #b5b5c3;
-  font-weight: 500;
-  font-size: 12.35px;
-  line-height: 18.525px;
-  margin: 0px 0.5rem;
-  text-transform: uppercase;
-}
-
-.loginWrap .mainForm form .form-group:nth-child(4) {
-  display: flex;
-  padding: 0px;
-}
-.form-group .group {
-  padding: 0 15px;
-  max-width: 50%;
-  width: 100%;
-}
-.form-group .group:first-child {
-  padding-left: 0px;
-}
-.form-group .group:last-child {
-  padding-right: 0px;
-}
-.loginWrap .mainForm form .form-group .slide {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-}
-.loginWrap .mainForm form .form-group .slide .slideItems {
-  margin: 10px 0px 12px 0px;
-  margin-right: 0.5rem;
-  background-color: rgb(228, 230, 239);
-  border-radius: 0.475rem;
-  width: 25%;
-  height: 5px;
-}
-.loginWrap .mainForm form .form-group .slide .slideItems:last-child {
-  margin-right: 0px;
-}
-.loginWrap .mainForm form .form-group:nth-child(6) {
-  margin-bottom: 2.5rem;
-  position: relative;
-}
-.loginWrap .mainForm form .form-group:nth-child(6) i {
-  position: absolute;
-  top: 42px;
-  right: 15px;
-}
-.loginWrap .mainForm form .form-group span {
-  color: #a1a5b7;
-  font-size: 13px;
-  line-height: 19.5px;
-  font-weight: 400;
-}
-.loginWrap .mainForm form .form-group:nth-child(7) {
-  margin-bottom: 1.25rem;
-}
-.loginWrap .mainForm form .form-check {
-  padding: 0;
-  margin-bottom: 2.5rem;
-}
-.loginWrap .mainForm form .form-check label {
-  font-size: 13.975px;
-  line-height: 20.9625px;
-  font-weight: 500;
-  color: rgb(94, 98, 120);
-  margin-left: 0.55rem;
-}
-.loginWrap .mainForm form .form-check input {
-  width: 22.75px;
-  height: 22.75px;
-  border: 0;
-  background-color: #eff2f5;
-  border-radius: 0.35em;
-  padding: 0px;
-}
-.loginWrap .mainForm form .form-button {
-  text-align: center;
-}
-.loginWrap .mainForm form .form-button button {
-  padding: calc(0.825rem + 1px) calc(1.75rem + 1px);
-  color: #fff;
-  border-color: #009ef7;
-  background-color: #009ef7;
-  font-size: 14.95px;
-  font-weight: 500;
-  margin: 0px;
-  width: unset;
-}
-/*-_-_Login_CSS_End_-_-*/
-
-/*-_-_Footer_CSS_Start_-_-*/
-footer {
-  padding: 2.5rem;
-  text-align: center;
-}
-footer .links a {
-  color: #a1a5b7;
-  padding-right: 0.5rem;
-  padding-left: 0.5rem;
-  font-weight: 500;
-  font-size: 13.975px;
-  line-height: 20.9625px;
-}
-/*-_-_Footer_CSS_End_-_-*/
-
-/*-_-_Signup-page_CSS_End_-_-*/
-
-/*-_-_Home-page_CSS_Start_-_-*/
-.main-dashboard .menu {
-  background-color: #1e1e2d;
-  width: 265px;
-}
-/*-_-_Home-page_CSS_End_-_-*/
-
-/*-_-_Responsiveness_-_-*/
-
-@media only screen and (max-width: 575px) {
-  .loginWrap .mainForm {
-    padding: 2.75rem 1.75rem;
-    box-shadow: 0 0.1rem 1rem 0.25rem rgb(0 0 0 / 5%);
-    background-color: white;
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  /*-_-_login-page_CSS_Start_-_-*/
-  .loginWrap {
-    padding: 2.5rem 15px 5rem;
-  }
-  .loginWrap .loginContent {
-    margin-bottom: 70px;
-  }
-  .loginWrap .mainForm {
-    padding: 1.75rem 1.5rem;
-  }
-  .loginWrap .mainForm form .heading h1 {
-    font-size: 18.75px;
-    line-height: 20px;
-  }
-  .loginWrap .mainForm form .heading span {
-    font-size: 14.25px;
-    line-height: 20.375px;
-  }
-  .loginWrap .mainForm form .form-group {
-    padding: 0px;
-  }
-  .loginWrap .mainForm form .form-group {
-    margin-bottom: 2rem;
-  }
-  .loginWrap .mainForm form .form-check {
-    margin-bottom: 2.5rem;
-    padding: 0px;
-  }
-  .loginWrap .mainForm form .form-group label {
-    font-size: 12px;
-  }
-  .loginWrap .mainForm form .form-check button {
-    font-size: 13px;
-  }
-  .loginWrap .mainForm form .form-check .social-media .social-items {
-    padding: 10px;
-  }
-  .loginWrap .mainForm form .form-check .social-media a {
-    font-size: 15px;
-    line-height: 22.425px;
-    font-weight: 500;
-    color: rgb(126, 130, 153);
-    border-radius: 0.475rem;
-  }
-  footer {
-    padding: 2.5rem 0.9rem;
-  }
-  footer .links a {
-    font-size: 12px;
-  }
-  /*-_-_login-page_CSS_End_-_-*/
-
-  /*-_-_Signup-page_CSS_Start_-_-*/
-  .loginWrap .mainForm form button {
-    padding: calc(0.75rem + 1px) calc(0.9rem + 1px);
-    font-size: 13px;
-  }
-  .loginWrap .mainForm form .form-group:nth-child(4) {
-    flex-direction: column;
-  }
-  .form-group .group {
-    padding: 0px;
-    max-width: 100%;
-  }
-  .loginWrap .mainForm form .form-check a {
-    display: inline;
-    font-size: 12px;
-  }
-  .loginWrap .mainForm form .form-check label {
-    font-size: 12px;
-  }
-
-  /*-_-_Signup-page_CSS_End_-_-*/
-}

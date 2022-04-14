@@ -2,10 +2,10 @@ import axios from 'axios'
 import { env_var } from '../../config/env'
 import { history } from '../..//helpers/history'
 import { getHeaderInfo } from '../../helpers/tokenCreator'
-import { removeTokens } from './localStorage'
+import { removeToken } from './localStorage'
 const handleResponse = (response: any) => {
   if (response.status === 401) {
-    removeTokens()
+    removeToken()
     history.push('/dashboard')
     window.location.reload()
   }
