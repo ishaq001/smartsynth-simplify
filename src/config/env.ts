@@ -1,6 +1,6 @@
 const env = {
   development: {
-    BASE_URL: 'http://18.135.231.189:9010/',
+    BASE_URL: 'http://18.135.231.189:9010',
     USER_NAME: 'j.krrishchandran@gmail.com',
     PASSWORD: 'samplereact',
   },

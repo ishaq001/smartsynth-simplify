@@ -1,12 +1,9 @@
-export const setTokens = (authRes: any) => {
-  localStorage.setItem('token', JSON.stringify(authRes.token))
-  localStorage.setItem('refreshToken', JSON.stringify(authRes.refreshToken))
+export const setToken = (token: string) => {
+  localStorage.setItem('token', JSON.stringify(token))
 }
 
-export const removeTokens = () => {
-  localStorage.removeItem('accessToken')
-  localStorage.removeItem('refreshToken')
+export const removeToken = () => {
   localStorage.removeItem('token')
 }
-export const getAccessToken = () => localStorage.getItem('token')?.slice(1, -1)
-export const getRefreshToken = () => localStorage.getItem('refresh_token')
+export const getToken = () => localStorage.getItem("token")
+
